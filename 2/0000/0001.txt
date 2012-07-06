@@ -1,12 +1,12 @@
 HP/PP
-RESTORE
+VRATITI
 STATUS
-RESTORE
+VRATITI
 HP/PP
-RESTORE
-BATTLE ITEMS
-POKÉ BALLS
-LAST USED ITEM
+VRATITI
+BORBENI PREDMETI
+POKÉ LOPTE
+POSLJEDNJI UPOTREBLJENI PREDMET
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,35 +19,35 @@ LAST USED ITEM
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-NEXT
+SLJEDEĆE
 HP/PP
-RESTORE
+VRATITI
 STATUS
-RESTORE
-POKÉ BALLS
-BATTLE ITEMS
+VRATITI
+POKÉ LOPTE
+BORBENI PREDMETI
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
 USE
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-It won't have any effect.
-It was wrapped in white fog！\xfffe
-\xf000Ă\x0001\x0000 \xfffeis getting Pumped!
-\xf000Ă\x0001\x0000's Attack\xffferose!
-\xf000Ă\x0001\x0000's Special Attack\xffferose!
-\xf000Ă\x0001\x0000's Speed\xffferose!
-\xf000Ă\x0001\x0000's Special Defense\xffferose!
-\xf000Ă\x0001\x0000's Defense\xffferose!
-\xf000Ă\x0001\x0000's accuracy\xffferose!
-\xf000ĉ\x0001\x0000 \xfffewas used!
-It's no good! It's impossible to aim\xfffewhen there are two Pokémon!
-There is no room left in the PC!
-\xf000ć\x0001\x0001's effect prevents\xfffethe item's use on \xf000Ă\x0001\x0000!
-It's no good! It's impossible to aim\xfffeat a Pokémon that's not in sight!
-It's no good! It's impossible to aim\xfffeat a Pokémon that's not in sight!
-It's not charged enough.
-Professor Juniper’s words echoed...\xfffeThere is a time and place for everything! But not now.\xf000븀\x0000\xfffe
-It's impossible to aim\xfffewithout being focused!
-The Ball cannot be used \xfffebecause of the device Ghetsis used!
+Neće imati utjecaja.
+Obavijno je bijelom maglom！\xfffe
+\xf000Ă\x0001\x0000 \xfffepostaje uzbuđen!
+\xf000Ă\x0001\x0000ov Napad\xfffese povećao!
+\xf000Ă\x0001\x0000ov Specijalni napad\xfffese povećao!
+\xf000Ă\x0001\x0000ov Brzina\xfffese povećala!
+\xf000Ă\x0001\x0000ov Specijalan obrana\xfffese povećala!
+\xf000Ă\x0001\x0000ov Obrana\xfffese povećala!
+\xf000Ă\x0001\x0000ov Preciznost\xfffese povećala!
+\xf000ĉ\x0001\x0000 \xfffeje upotrebljen!
+Nije dobro! Nemoguće je ciljat\xfffekada su dva Pokémona!
+Nema mjesta na PC-u!
+\xf000ć\x0001\x0001ov efekt sprjećava\xfffeuporabu predmeta na \xf000Ă\x0001\x0000!
+Nije dobro! Nemoguće je ciljati\xfffena Pokémona kojeg ne vidiš!
+Nije dobro! nemoguće je ciljati\xfffena Pokémona kojeg ne vidiš!
+Nije dovoljno napunjeno.
+Čule su se riječi profesorice Juniper...\xfffeZa sve ima vremena i prostora! Ali ne sad.\xf000븀\x0000\xfffe
+Nemoguće je ciljati\xfffebez koncentracije!
+Lopta se ne može iskoristiti \xfffezbog uređaja kojeg je iskoristio Ghetsis!
