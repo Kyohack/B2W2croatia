@@ -1,12 +1,12 @@
 HP/PP
-RESTORE
+NAKNADITI
 STATUS
-RESTORE
+IZLJEČITI
 HP/PP
-RESTORE
-BATTLE ITEMS
-POKÉ BALLS
-LAST USED ITEM
+IZLJEČITI
+STVARI ZA BORBU
+POKÉ LOPTE
+POSLJEDNJA KORIŠTENA STVAR
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,21 +19,21 @@ LAST USED ITEM
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-NEXT
+SLJEDEĆEG
 HP/PP
-RESTORE
+NAKNADITI
 STATUS
-RESTORE
-POKÉ BALLS
-BATTLE ITEMS
+IZLJEČITI
+POKÉ LOPTE
+STVARI ZA BORBU
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-USE
+KORISTITI
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-It won't have any effect.
-It was wrapped in white fog！\xfffe
+Neće imati nikakav efekt.
+Zamotano je u bijeloj magli！\xfffe
 \xf000Ă\x0001\x0000 \xfffeis getting Pumped!
 \xf000Ă\x0001\x0000's Attack\xffferose!
 \xf000Ă\x0001\x0000's Special Attack\xffferose!
