@@ -29,7 +29,7 @@ BORBENI PREDMETI
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-USE
+KORISTITI
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Neće imati utjecaja.
