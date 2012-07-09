@@ -1,110 +1,110 @@
-No Answer
+Nema odgovora
 Black2
 White2
-Male
-Female
-Battle
-Trade
-The City
-The Countryside
-Smart
-Athletic
-Time
-Money
-Appearance
-Substance
+Muško
+Žensko
+Borba
+Razmjena
+Grad
+Selo
+Pametan
+Aktivan
+Vrijeme
+Novac
+Izgled
+Tvar
 Cool
-Cute
-Strange
+Sladak
+Čudno
 Tepig
 Oshawott
 Snivy
-Competition
-Cooperation
+Natjecanje
+Suradnja
 -
-Go to the past
-Go to the future
-Don't need
-Family
-Friends
-Self
-Cool People
-Smart Person
-Funny Man
-Strange Person
-Chasing a dream
-Reality Check
+Otići u prošlost
+Otići u budućnost
+Netrebam
+Obitelj
+Prijatelji
+Sam
+Cool ljudi
+Pametna osoba
+Smiješan čovijek
+Čudna osoba
+Pratiti svoj san
+Spusti se na zemlju
 -
 -
-Interesting
+Zanimljivo
 Cool
-Kind
-Rich
-Battles
-Collecting
-The Story
+Vrsta
+Bogat
+Borbe
+Skupljanje
+Priča
 Pokémon
-Flying
-Become transparent
-Stop Time
-Read Minds
-Use
-Save
-Be Proud
-Donate
-0 - 5 years
-5 - 10 years
-10 - 15 years
-15 - years
-Play Outside
-Shopping
-Reading
-Video Games
-Sleeping Late
+Letećo
+Postati proziran
+Zaustaviti vrijeme
+Čitati misli
+Koristiti
+Spremiti
+Biti ponosan
+Donirati
+0 - 5 godina
+5 - 10 godina
+10 - 15 godina
+15 - godina
+Igrati se vani
+Kupovina
+Čitanje
+Video igre
+Spavati do kasno
 Pop
 Rock
 Jazz
 Rap
-Classical
-News
+Klasično
+Vijesti
 Drama
-Comedy
-Sports
-Cartoons
-Action
-Sci-Fi
-Romance
-Suspense
-Comedy
+Komedija
+Sport
+Crtići
+Akcija
+Znastvena fantastika
+Romantika
+Napetost
+Komedija
 Horror
-Action
+Akcija
 Puzzle
 RPG
-Adventure
-Simulation
+Avantura
+Simulacija
 Sport
-Work
+Posao
 Interpersonal
-Hobby
-Health
-Become Mighty
+Hobi
+Zdravlje
+Postati jak
 -
-Exercising
-Reading
-Music
-Movies
-Traveling
-Cooking
-Fishing
-Video Games
+Vježbajući
+Čitajući
+Glazba
+Filmovi
+Putovanje
+Kuhanje
+Pecanje
+Video igre
 Student
-Office Worker
-Creator
-Self-Employed
-Public Official
-Homemaker
-Artist
-Job-Hopper
+Radnik
+Stvoritelj
+Samo-zaposlen
+Javni radnik
+Kućni radnik
+Umjetnik
+Poslodavac
 Cheren
 Roxie
 Burgh
@@ -117,30 +117,30 @@ Marlon
 -
 -
 Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0-10 Hours
-10-20 Hours
-20-30 Hours
-30-40 Hours
-40-50 Hours
-50-60 Hours
-60-70 Hours
-70-80 Hours
-80-90 Hours
-90-100 Hours
-100+ Hours
+Vatreni
+Vodeni
+Električni
+Travnati
+Ledeni
+Borbeni
+Otrovni
+Zemljani
+Leteći
+Psihički
+Buba
+Kameni
+Duh
+Zmaj
+Tamni
+Čelični
+0-10 Sati
+10-20 Sati
+20-30 Sati
+30-40 Sati
+40-50 Sati
+50-60 Sati
+60-70 Sati
+70-80 Sati
+80-90 Sati
+90-100 Sati
+100+ Sati
